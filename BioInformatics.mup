@@ -1,0 +1,932 @@
+{
+  "title": "BioInformatics by           Igor Lemos Alves",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "-0.5": {
+      "title": "Communities",
+      "id": 20,
+      "attr": {
+        "style": {},
+        "collapsed": true,
+        "position": [
+          247.5,
+          -64,
+          30
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "BioSatrs www.biostars.org",
+          "id": 37
+        }
+      }
+    },
+    "5.5": {
+      "title": "Informatics",
+      "id": 4,
+      "attr": {
+        "style": {},
+        "collapsed": true,
+        "position": [
+          62.83330000000001,
+          76.16669999999999,
+          29
+        ]
+      },
+      "ideas": {
+        "12": {
+          "title": "Software",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "WebTools",
+              "id": 10,
+              "ideas": {
+                "1": {
+                  "title": "NCBI http://www.ncbi.nlm.nih.gov/",
+                  "id": 47
+                },
+                "2": {
+                  "title": "Galaxy https://usegalaxy.org/",
+                  "id": 48
+                }
+              },
+              "attr": {
+                "style": {},
+                "collapsed": true,
+                "position": [
+                  168.08332499999983,
+                  -78.91669999999988,
+                  5
+                ]
+              }
+            },
+            "2": {
+              "title": "Programming",
+              "id": 11,
+              "ideas": {
+                "5": {
+                  "title": "OS",
+                  "id": 22,
+                  "ideas": {
+                    "1": {
+                      "title": "LINUX",
+                      "id": 23,
+                      "ideas": {
+                        "1": {
+                          "title": "Ubuntu http://www.ubuntu.com/",
+                          "id": 25,
+                          "ideas": {
+                            "1": {
+                              "title": "QIIME http://qiime.org/",
+                              "id": 26,
+                              "ideas": {
+                                "1": {
+                                  "title": "Community/Forum https://groups.google.com/forum/#!forum/qiime-forum",
+                                  "id": 40
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {},
+                    "position": [
+                      118.91669999999999,
+                      -144.29159375000012,
+                      2
+                    ],
+                    "collapsed": true
+                  }
+                },
+                "8": {
+                  "title": "Code Management",
+                  "id": 55,
+                  "ideas": {
+                    "1": {
+                      "title": "GitHub",
+                      "id": 56,
+                      "ideas": {
+                        "1": {
+                          "title": "TUTO",
+                          "id": 65,
+                          "ideas": {
+                            "1": {
+                              "title": "GitHub for Web Designers https://www.youtube.com/playlist?list=PLzJZ3ahfm9Q94qcrHPXXAcrIWEFD0k9ia",
+                              "id": 66
+                            },
+                            "2": {
+                              "title": "GitHUB para n00bs https://www.youtube.com/playlist?list=PLIcowd3mjrFjdFDTFcHKHdgTqYZZdMyKH",
+                              "id": 67
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {},
+                    "position": [
+                      94.41662499999984,
+                      219.54168750000008,
+                      7
+                    ],
+                    "collapsed": true
+                  }
+                },
+                "5.5": {
+                  "title": "Communities",
+                  "id": 34,
+                  "ideas": {
+                    "1": {
+                      "title": "StackOverflow  http://stackoverflow.com/",
+                      "id": 35
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {},
+                    "position": [
+                      194.41662499999984,
+                      84.54168750000008,
+                      6
+                    ]
+                  }
+                },
+                "5.25": {
+                  "title": "Languages",
+                  "id": 32,
+                  "ideas": {
+                    "7": {
+                      "title": "Processing",
+                      "id": 120,
+                      "attr": {
+                        "position": [
+                          178.66660000000002,
+                          -58.78139218749999,
+                          3
+                        ],
+                        "style": {
+                          "background": "#008000"
+                        },
+                        "collapsed": true
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Perl www.perl.org",
+                          "id": 12,
+                          "ideas": {
+                            "1": {
+                              "title": "BioPerl http://www.bioperl.org/wiki/Main_Page",
+                              "id": 14
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "Python www.python.org",
+                          "id": 15,
+                          "ideas": {
+                            "1": {
+                              "title": "BioPython http://biopython.org/wiki/Main_Page",
+                              "id": 16
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "3": {
+                          "title": "PHP http://php.net/",
+                          "id": 17,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "4": {
+                          "title": "R http://www.r-project.org/",
+                          "id": 50,
+                          "ideas": {
+                            "1": {
+                              "title": "Learning",
+                              "id": 51,
+                              "ideas": {
+                                "1": {
+                                  "title": "Tuto",
+                                  "id": 52,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Try R http://tryr.codeschool.com/levels/1/challenges/3",
+                                      "id": 54
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "5": {
+                          "title": "JAVA",
+                          "id": 106,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      }
+                    },
+                    "12": {
+                      "title": "WEB Data Visualization",
+                      "id": 119,
+                      "ideas": {
+                        "3": {
+                          "title": "HTML5/CANVAS/CSS",
+                          "id": 57,
+                          "ideas": {
+                            "2": {
+                              "title": "TUTO",
+                              "id": 97,
+                              "ideas": {
+                                "2": {
+                                  "title": "Building a Graphing Calculator with HTML5 https://www.youtube.com/watch?v=E-_Lc6FrDRw",
+                                  "id": 96,
+                                  "attr": {
+                                    "style": {},
+                                    "position": [
+                                      142.83322499999986,
+                                      -181.50000000000003,
+                                      4
+                                    ]
+                                  }
+                                },
+                                "4": {
+                                  "title": "HTML5 and Java Script. Canvas tutorial https://www.youtube.com/playlist?list=PLC4E8D99FCB9496E0",
+                                  "id": 125,
+                                  "attr": {
+                                    "position": [
+                                      289.08322499999986,
+                                      -102.74999999999994,
+                                      3
+                                    ],
+                                    "style": {}
+                                  }
+                                },
+                                "5": {
+                                  "title": "HTML 5 game development for beginners https://www.youtube.com/playlist?list=PLMrhHAlJwf0OqM_VxZTl-ckmIFczdm3xY",
+                                  "id": 126,
+                                  "attr": {
+                                    "position": [
+                                      264.08322499999986,
+                                      -23.99999999999997,
+                                      2
+                                    ],
+                                    "style": {}
+                                  }
+                                },
+                                "6": {
+                                  "title": "General HTML5 Game Development https://www.youtube.com/playlist?list=PLMrhHAlJwf0OrxJeGBlj8P0JyVFcU0is5",
+                                  "id": 127,
+                                  "ideas": {},
+                                  "attr": {
+                                    "position": [
+                                      267.83322499999986,
+                                      79.74999999999994,
+                                      1
+                                    ],
+                                    "style": {}
+                                  }
+                                },
+                                "7": {
+                                  "title": "Graph plot in JavaScript https://www.youtube.com/playlist?list=PLE263D9113395EB8B",
+                                  "id": 124,
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "collapsed": true,
+                                "style": {}
+                              }
+                            }
+                          },
+                          "attr": {
+                            "style": {},
+                            "position": [
+                              96.49982499999965,
+                              -85.10401562499999,
+                              8
+                            ],
+                            "collapsed": true
+                          }
+                        },
+                        "3.5": {
+                          "title": "BOOTSTRAP http://getbootstrap.com/",
+                          "id": 59,
+                          "ideas": {
+                            "1": {
+                              "title": "Templates",
+                              "id": 79,
+                              "ideas": {
+                                "1": {
+                                  "title": "{wrap}bootstrap https://wrapbootstrap.com/",
+                                  "id": 81
+                                },
+                                "2": {
+                                  "title": "Bootsnipp http://bootsnipp.com/",
+                                  "id": 92
+                                },
+                                "3": {
+                                  "title": "BootstrapZero http://bootstrapzero.com/",
+                                  "id": 93
+                                }
+                              }
+                            }
+                          },
+                          "attr": {
+                            "style": {},
+                            "position": [
+                              44.499824999999646,
+                              80.22928437500002,
+                              7
+                            ],
+                            "collapsed": true
+                          }
+                        },
+                        "3.25": {
+                          "title": "JavaScript",
+                          "id": 18,
+                          "ideas": {
+                            "1": {
+                              "title": "jQuery http://jquery.com/",
+                              "id": 27,
+                              "attr": {
+                                "position": [
+                                  160.33329999999978,
+                                  -239.9408374999988,
+                                  15
+                                ],
+                                "style": {},
+                                "collapsed": true
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "AJAX",
+                                  "id": 99,
+                                  "attr": {
+                                    "style": {}
+                                  },
+                                  "ideas": {
+                                    "1": {
+                                      "title": "JSON http://www.json.org/",
+                                      "id": 100,
+                                      "attr": {
+                                        "style": {}
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "Angular.js https://angularjs.org/",
+                              "id": 28,
+                              "ideas": {
+                                "1": {
+                                  "title": "TUTO",
+                                  "id": 68,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Introduction to Angular.js in 50 Examples",
+                                      "id": 70,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "P1 https://www.youtube.com/watch?v=TRrL5j3MIvo",
+                                          "id": 71
+                                        },
+                                        "2": {
+                                          "title": "P2 https://www.youtube.com/watch?v=6J08m1H2BME",
+                                          "id": 72
+                                        }
+                                      },
+                                      "attr": {
+                                        "position": [
+                                          117.5,
+                                          -78.95832812500004,
+                                          6
+                                        ],
+                                        "style": {}
+                                      }
+                                    },
+                                    "2": {
+                                      "title": "Curso de Javascript & Angular https://www.youtube.com/playlist?list=PLxoKZT8JlDGIp6fVcVNrKsc-riszYttiX",
+                                      "id": 78,
+                                      "attr": {
+                                        "position": [
+                                          143.75,
+                                          22.291671874999963,
+                                          8
+                                        ],
+                                        "style": {}
+                                      }
+                                    },
+                                    "4": {
+                                      "title": "ALL YOU NEED TO KNOW ABOUT ANGULARJS https://www.youtube.com/playlist?list=PLzJZ3ahfm9Q8pwP88ZRSdjwlwn6lrHzrT",
+                                      "id": 103,
+                                      "attr": {
+                                        "position": [
+                                          230.66652499999987,
+                                          139.22916250000026,
+                                          9
+                                        ],
+                                        "style": {}
+                                      }
+                                    },
+                                    "0.5": {
+                                      "title": "Egghead.io https://egghead.io/",
+                                      "id": 94,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "Egghead.io - AngularJS https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7",
+                                          "id": 95
+                                        }
+                                      },
+                                      "attr": {
+                                        "position": [
+                                          122.5,
+                                          -148.95832812499992,
+                                          7
+                                        ],
+                                        "style": {}
+                                      }
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {},
+                                    "collapsed": true
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {},
+                                "position": [
+                                  240.33329999999978,
+                                  -115.2741374999988,
+                                  13
+                                ],
+                                "collapsed": true
+                              }
+                            },
+                            "3": {
+                              "title": "D3.js http://d3js.org/",
+                              "id": 31,
+                              "ideas": {
+                                "3": {
+                                  "title": "Articles",
+                                  "id": 109,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Messing around wih D3.js and hierarchical data http://michelepasin.org/blog/2013/06/21/messing-around-wih-d3-js-and-hierarchical-data/",
+                                      "id": 110
+                                    }
+                                  },
+                                  "attr": {
+                                    "position": [
+                                      108.75,
+                                      -90.87503124999984,
+                                      1
+                                    ],
+                                    "style": {}
+                                  }
+                                },
+                                "5": {
+                                  "title": "Examples",
+                                  "id": 115,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "The Big List of D3.js Examples http://christopheviau.com/d3list/",
+                                      "id": 107,
+                                      "attr": {
+                                        "style": {}
+                                      },
+                                      "ideas": {}
+                                    },
+                                    "5": {
+                                      "title": "mbostock/d3 https://github.com/mbostock/d3/wiki/Gallery",
+                                      "id": 108,
+                                      "attr": {
+                                        "style": {}
+                                      }
+                                    }
+                                  }
+                                },
+                                "6": {
+                                  "title": "TUTO",
+                                  "id": 117,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Scott Murray http://alignedleft.com/tutorials/d3",
+                                      "id": 118
+                                    },
+                                    "2": {
+                                      "title": "DashingD3js https://www.dashingd3js.com/table-of-contents",
+                                      "id": 122
+                                    },
+                                    "3": {
+                                      "title": "mbostock Tutorials https://github.com/mbostock/d3/wiki/Tutorials",
+                                      "id": 147,
+                                      "attr": {
+                                        "style": {}
+                                      }
+                                    },
+                                    "4": {
+                                      "title": "https://square.github.io/intro-to-d3/",
+                                      "id": 148
+                                    },
+                                    "5": {
+                                      "title": "http://christopheviau.com/d3_tutorial/",
+                                      "id": 149
+                                    },
+                                    "6": {
+                                      "title": "D3.js tutorials https://www.youtube.com/playlist?list=PL6il2r9i3BqH9PmbOf5wA5E1wOG3FT22p",
+                                      "id": 151
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {},
+                                    "collapsed": true
+                                  }
+                                },
+                                "5.5": {
+                                  "title": "SVG http://www.w3.org/Graphics/SVG/",
+                                  "id": 60,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "MDN https://developer.mozilla.org/en/docs/Web/SVG",
+                                      "id": 61
+                                    },
+                                    "2": {
+                                      "title": "svg",
+                                      "id": 63
+                                    }
+                                  },
+                                  "attr": {
+                                    "collapsed": true,
+                                    "style": {},
+                                    "position": [
+                                      144.40009843750204,
+                                      92.68749062500024,
+                                      2
+                                    ]
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "position": [
+                                  302.3332999999998,
+                                  59.7258625000012,
+                                  14
+                                ],
+                                "style": {},
+                                "collapsed": true
+                              }
+                            },
+                            "8": {
+                              "title": "TREE LIBRARIES .JS",
+                              "id": 105,
+                              "ideas": {
+                                "1": {
+                                  "title": "iTOL http://itol.embl.de/",
+                                  "id": 104,
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                },
+                                "2": {
+                                  "title": "jsPhyloSVG http://www.jsphylosvg.com/",
+                                  "id": 64,
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                },
+                                "3": {
+                                  "title": "Newick Format http://en.wikipedia.org/wiki/Newick_format",
+                                  "id": 111
+                                },
+                                "4": {
+                                  "title": "XML http://www.w3.org/XML/",
+                                  "id": 101,
+                                  "attr": {
+                                    "style": {}
+                                  },
+                                  "ideas": {
+                                    "1": {
+                                      "title": "PHYLOXML http://www.phyloxml.org/",
+                                      "id": 102,
+                                      "attr": {
+                                        "style": {},
+                                        "position": [
+                                          114.33322499999986,
+                                          -0.41662500000052205,
+                                          1
+                                        ]
+                                      }
+                                    }
+                                  }
+                                },
+                                "5": {
+                                  "title": "Phylogenetic Tree of Life http://www.jasondavies.com/tree-of-life/",
+                                  "id": 112,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Right-angle phylograms and circular dendrograms http://bl.ocks.org/kueda/1036776",
+                                      "id": 114
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "position": [
+                                  173.33329999999978,
+                                  218.39246250000122,
+                                  12
+                                ],
+                                "style": {},
+                                "collapsed": true
+                              }
+                            }
+                          },
+                          "attr": {
+                            "style": {},
+                            "collapsed": true
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ff6600"
+                        },
+                        "collapsed": true,
+                        "position": [
+                          153,
+                          63.552007812499994,
+                          2
+                        ]
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {},
+                    "position": [
+                      208.41662499999984,
+                      -46.12501249999991,
+                      8
+                    ],
+                    "collapsed": true
+                  }
+                }
+              },
+              "attr": {
+                "style": {},
+                "position": [
+                  283.6667,
+                  44.208312500000034,
+                  1
+                ],
+                "collapsed": true
+              }
+            },
+            "3": {
+              "title": "DataBase",
+              "id": 74,
+              "ideas": {
+                "1": {
+                  "title": "MySQL http://www.mysql.com/",
+                  "id": 75,
+                  "ideas": {
+                    "1": {
+                      "title": "TOOL",
+                      "id": 76,
+                      "ideas": {
+                        "1": {
+                          "title": "MySQL Workbench http://www.mysql.com/products/workbench/",
+                          "id": 77
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {},
+                "position": [
+                  208.08332499999983,
+                  116.08330000000012,
+                  4
+                ]
+              }
+            },
+            "4": {
+              "title": "SERVER",
+              "id": 82,
+              "ideas": {
+                "1": {
+                  "title": "Local",
+                  "id": 83,
+                  "ideas": {
+                    "1": {
+                      "title": "XAMPP https://www.apachefriends.org/pt_br/index.html",
+                      "id": 84
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {},
+                "position": [
+                  15.083324999999832,
+                  136.08330000000012,
+                  3
+                ]
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              148.5,
+              9.445996874999878,
+              11
+            ],
+            "collapsed": true
+          }
+        },
+        "1.5": {
+          "title": "IDEs",
+          "id": 85,
+          "ideas": {
+            "1": {
+              "title": "NetBeans https://netbeans.org/",
+              "id": 86,
+              "ideas": {
+                "1": {
+                  "title": "DEBUG",
+                  "id": 87,
+                  "ideas": {
+                    "1": {
+                      "title": "Xdebug http://xdebug.org/",
+                      "id": 89
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Eclipse https://eclipse.org/home/index.php",
+              "id": 90
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              30.5,
+              -152.8874031250001,
+              12
+            ],
+            "collapsed": true
+          }
+        },
+        "6.75": {
+          "title": "HardWare",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "AWS http://aws.amazon.com/?nc2=h_ls",
+              "id": 42
+            },
+            "2": {
+              "title": "GCP https://cloud.google.com/",
+              "id": 44
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              174.50007500000015,
+              -94.22070312500023,
+              10
+            ],
+            "collapsed": true
+          }
+        }
+      }
+    },
+    "-0.75": {
+      "title": "Statistic",
+      "id": 2,
+      "attr": {
+        "style": {},
+        "collapsed": true,
+        "position": [
+          198.1667,
+          55.16669999999999,
+          24
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Communities",
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "Cross validated http://stats.stackexchange.com/",
+              "id": 39
+            }
+          }
+        },
+        "2": {
+          "title": "Learning",
+          "id": 49
+        }
+      }
+    },
+    "-0.25": {
+      "title": "JOBS",
+      "id": 19,
+      "ideas": {
+        "1": {
+          "title": "http://bioinformatics.ca/jobs",
+          "id": 21
+        },
+        "2": {
+          "title": "www.biostars.org/t/Jobs/",
+          "id": 36
+        },
+        "3": {
+          "title": "https://www.recruitingsite.com/csbsites/OICR/careers.asp",
+          "id": 45
+        },
+        "4": {
+          "title": "http://www.sfbi.fr/recherche_emplois",
+          "id": 46
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {},
+        "position": [
+          52.16669999999999,
+          -163.8333,
+          27
+        ]
+      }
+    },
+    "2.75": {
+      "title": "Biology",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "DNA",
+          "id": 7
+        },
+        "2": {
+          "title": "RNA",
+          "id": 8
+        },
+        "3": {
+          "title": "Protein",
+          "id": 9
+        }
+      },
+      "attr": {
+        "style": {},
+        "position": [
+          140.8333,
+          -120.83330000000001,
+          28
+        ],
+        "collapsed": true
+      }
+    }
+  },
+  "links": []
+}
